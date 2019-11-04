@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 Thumbs.db
 *.tmp
@@ -5,3 +6,8 @@ Thumbs.db
 *.txt
 
 
+=======
+*.db
+
+css/*.scss
+>>>>>>> f4f77055001f05a896d432bd201bfa0e6e769b37
