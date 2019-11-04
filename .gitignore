@@ -1,9 +1,7 @@
 node_modules/
 Thumbs.db
-*.tmp
-*.
-temp
-*.db
-
+*.html
 css/
 *.scss
+mod/
+dis/
