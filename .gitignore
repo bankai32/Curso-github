@@ -1,4 +1,11 @@
 node_modules/
 Thumbs.db
+<<<<<<< HEAD
 *.tmp
 *.temp
+=======
+*.txt
+*.scss
+*.less
+css/
+>>>>>>> Se Modifico Galeria.html
